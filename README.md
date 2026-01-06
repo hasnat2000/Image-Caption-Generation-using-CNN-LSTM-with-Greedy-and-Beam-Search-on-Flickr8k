@@ -1,0 +1,2 @@
+# Image-Caption-Generation-using-CNN-LSTM-with-Greedy-and-Beam-Search-on-Flickr8k
+Here i develop a model which was train on flickr8k image dataset and generate caption for image. Image Caption Generator using CNN and LSTM. Extracts features with InceptionV3 and generates captions with LSTM. Supports greedy and beam search. Evaluated with BLEU, METEOR, and CIDEr. Includes visualizations and vocabulary analysis.
